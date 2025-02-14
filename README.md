@@ -29,7 +29,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 | Kelas | TI - 4K RPL |
 
 
-### PRAKTIKUM 1
+# PRAKTIKUM 1
 
 ## 1.	Jelaskan kegunaan masing-masing dari Git, VS Code dan NodeJS yang telah Anda install pada sesi praktikum ini! 
 | Nama | Penjelasan |
@@ -52,7 +52,7 @@ Instalasi Node JS
  ![Screenshot](img/03.png)
 
  
-### PRAKTIKUM 2
+# PRAKTIKUM 2
 
 ## 1.	Pada Langkah ke-2, setelah membuat proyek baru menggunakan Next.js, terdapat beberapa istilah yang muncul. Jelaskan istilah tersebut, TypeScript, ESLint, Tailwind CSS, App Router, Import alias, App router, dan Turbopack! 
 | Nama | Penjelasan |
@@ -89,14 +89,14 @@ Tampilan web
 
  ![Screenshot](img/06.png)
 
- ### PRAKTIKUM 3
+ # PRAKTIKUM 3
 
 ## 1.	Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
 Muncul button buka halaman
 
  ![Screenshot](img/07.png)
 
- ### PRAKTIKUM 4 
+ # PRAKTIKUM 4 
  
 ## 1.	Untuk apakah kegunaan sintaks user.imageUrl? 
 | Nama | Penjelasan |
