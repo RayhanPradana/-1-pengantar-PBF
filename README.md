@@ -41,15 +41,15 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## 2.	Buktikan dengan screenshoot yang menunjukkan bahwa masing-masing tools tersebut telah berhasil terinstall di perangkat Anda!
 Instalasi GIT
 
- ![Screenshot](img\01.png)
+ ![Screenshot](img/01.png)
 
 Instalasi VSCODE
 
- ![Screenshot](img\02.png)
+ ![Screenshot](img/02.png)
 
 Instalasi Node JS
 
- ![Screenshot](img\03.png)
+ ![Screenshot](img/03.png)
 
  
 ### PRAKTIKUM 2
@@ -83,18 +83,18 @@ Instalasi Node JS
 ## 3.	Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
 Npm run dev berhasil
 
- ![Screenshot](img\05.png)
+ ![Screenshot](img/05.png)
 
 Tampilan web
 
- ![Screenshot](img\06.png)
+ ![Screenshot](img/06.png)
 
  ### PRAKTIKUM 3
 
 ## 1.	Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
 Muncul button buka halaman
 
- ![Screenshot](img\07.png)
+ ![Screenshot](img/07.png)
 
  ### PRAKTIKUM 4 
  
@@ -106,5 +106,5 @@ Muncul button buka halaman
 ## 2.	Buktikan dengan screenshoot yang menunjukkan bahwa tahapan percobaan di atas telah berhasil Anda lakukan!
 Profil dibawah button muncul
 
-  ![Screenshot](img\08.png)
+  ![Screenshot](img/08.png)
 
